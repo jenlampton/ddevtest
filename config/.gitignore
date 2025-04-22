@@ -1,0 +1,5 @@
+; Ignore all local configuration
+dev-active/*.json
+
+; Ingore staging readme file
+staging/README.md
